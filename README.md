@@ -8,7 +8,7 @@
 <Trabalhar com tecnologias voltadas para nuvem, desenvolvendo soluções que busquem simplicar desafios complexos dentro do mundo de T.I>
 
 
-### 📋 Ferramentas que já trabalhei
+## 📋 Ferramentas que já trabalhei
 
 - Excel
 
@@ -28,7 +28,7 @@
 
 - Asana
 
-###Habilidades
+##Habilidades
 
 - Inglês avançado
 - Metodologias ágeis
