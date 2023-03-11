@@ -12,15 +12,22 @@ Trabalhar com tecnologias voltadas para nuvem, desenvolvendo soluções que busq
 ### 📋 Ferramentas que já trabalhei
 
 -Excel
-- Word
+-Word
 -PowerPoint
-- Qliksense
+-Qliksense
 -Kanban
 -Jira
 -PowerBI
 -Data Studio
 -Asana
--
+
+###Habilidades
+
+Inglês avançado
+Metodologias ágeis
+Senso de urgência
+
+
 
 
 
