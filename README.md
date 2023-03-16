@@ -28,6 +28,8 @@
 
 - Asana
 
+-Notion
+
 ##Habilidades
 
 - Inglês avançado
